@@ -8,7 +8,8 @@ namespace myapp
         {
         	Console.WriteLine("Enter your name");
 		string _name = Console.ReadLine();
-		Console.WriteLine("Hello {0} to the  World of dockerdotnetcore !", _name);
+		Console.WriteLine("Hello {0} to the World of dockerdotnetcore !", _name);
+		Console.WriteLine("Different Teams");
         }
     }
 }
