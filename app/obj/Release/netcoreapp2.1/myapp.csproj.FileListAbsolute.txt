@@ -1,0 +1,11 @@
+/home/pruthvisiddharth/DockerDotCore/app/bin/Release/netcoreapp2.1/myapp.deps.json
+/home/pruthvisiddharth/DockerDotCore/app/bin/Release/netcoreapp2.1/myapp.runtimeconfig.json
+/home/pruthvisiddharth/DockerDotCore/app/bin/Release/netcoreapp2.1/myapp.runtimeconfig.dev.json
+/home/pruthvisiddharth/DockerDotCore/app/bin/Release/netcoreapp2.1/myapp.dll
+/home/pruthvisiddharth/DockerDotCore/app/bin/Release/netcoreapp2.1/myapp.pdb
+/home/pruthvisiddharth/DockerDotCore/app/obj/Release/netcoreapp2.1/myapp.csprojAssemblyReference.cache
+/home/pruthvisiddharth/DockerDotCore/app/obj/Release/netcoreapp2.1/myapp.csproj.CoreCompileInputs.cache
+/home/pruthvisiddharth/DockerDotCore/app/obj/Release/netcoreapp2.1/myapp.AssemblyInfoInputs.cache
+/home/pruthvisiddharth/DockerDotCore/app/obj/Release/netcoreapp2.1/myapp.AssemblyInfo.cs
+/home/pruthvisiddharth/DockerDotCore/app/obj/Release/netcoreapp2.1/myapp.dll
+/home/pruthvisiddharth/DockerDotCore/app/obj/Release/netcoreapp2.1/myapp.pdb
